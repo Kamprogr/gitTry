@@ -1,1 +1,1 @@
-this is text nr 3 and also model 3!
+this is text nr 3 and also model 3! It should be model X :)
